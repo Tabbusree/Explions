@@ -921,3 +921,81 @@
 [INFO ] 2023-11-27 15:20:14.412 [main] AdminLoginStepDefinition - The website launches
 [INFO ] 2023-11-27 15:20:19.627 [main] AdminLoginStepDefinition - User logged in successfully
 [INFO ] 2023-11-27 15:20:25.691 [main] AdminLoginStepDefinition - The message is delivered
+[INFO ] 2023-11-27 15:49:56.699 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:49:56.904 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:50:01.981 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:50:10.173 [main] AdminLoginStepDefinition - Assertion passed
+[INFO ] 2023-11-27 15:50:16.883 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:50:17.000 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:50:23.569 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:50:31.125 [main] AdminLoginStepDefinition - Assertion passed in new patient
+[INFO ] 2023-11-27 15:50:36.899 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:50:37.040 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:50:46.278 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:50:58.376 [main] AdminLoginStepDefinition - Asserted
+[INFO ] 2023-11-27 15:51:03.912 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:51:04.047 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:51:09.891 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:51:20.483 [main] AdminLoginStepDefinition - Assertion passed for Intentionally failed full bill module
+[INFO ] 2023-11-27 15:51:26.047 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:51:26.174 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:51:32.082 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:51:38.756 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:51:38.890 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:51:44.218 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:51:47.738 [main] AdminLoginStepDefinition - assert passed for front office
+[INFO ] 2023-11-27 15:51:50.056 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:51:50.173 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:51:55.621 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:52:02.981 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:52:03.102 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:52:13.202 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:52:21.589 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:52:21.707 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:52:27.029 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:52:29.135 [main] AdminLoginStepDefinition - Assert passed 
+[INFO ] 2023-11-27 15:52:31.695 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:52:31.822 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:52:37.719 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:52:39.808 [main] AdminLoginStepDefinition - Record saved
+[INFO ] 2023-11-27 15:52:42.366 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:52:42.487 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:52:47.547 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:53:16.294 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:53:16.420 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:53:21.523 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:53:48.973 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:53:49.098 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:53:53.911 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:53:55.841 [main] AdminLoginStepDefinition - Error message is asserted
+[INFO ] 2023-11-27 15:53:58.120 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:53:58.245 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:54:03.151 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:54:05.001 [main] AdminLoginStepDefinition - Assert the Successfully message
+[INFO ] 2023-11-27 15:54:07.300 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:54:07.430 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:54:13.240 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:54:19.032 [main] AdminLoginStepDefinition - Record Saved Successfully in outPatient
+[INFO ] 2023-11-27 15:54:21.577 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:54:21.711 [main] AdminLoginStepDefinition - Admin page 
+[INFO ] 2023-11-27 15:54:26.706 [main] AdminLoginStepDefinition - Logged in Successfull
+[INFO ] 2023-11-27 15:54:32.505 [main] AdminLoginStepDefinition - Asert passed with showing error message
+[INFO ] 2023-11-27 15:54:35.114 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:54:36.685 [main] AdminLoginStepDefinition - The website launches
+[INFO ] 2023-11-27 15:54:42.147 [main] AdminLoginStepDefinition - User logged in successfully
+[INFO ] 2023-11-27 15:54:42.835 [main] AdminLoginStepDefinition - The radiology assert is successful
+[INFO ] 2023-11-27 15:54:43.128 [main] AdminLoginStepDefinition - PDF downloaded successfully
+[INFO ] 2023-11-27 15:54:45.485 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:54:47.185 [main] AdminLoginStepDefinition - The website launches
+[INFO ] 2023-11-27 15:54:51.347 [main] AdminLoginStepDefinition - User logged in successfully
+[INFO ] 2023-11-27 15:54:52.072 [main] AdminLoginStepDefinition - The ambulance assert is successful
+[INFO ] 2023-11-27 15:54:54.607 [main] AdminLoginStepDefinition - The payment is asserted
+[INFO ] 2023-11-27 15:54:56.996 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:54:58.523 [main] AdminLoginStepDefinition - The website launches
+[INFO ] 2023-11-27 15:55:03.274 [main] AdminLoginStepDefinition - User logged in successfully
+[INFO ] 2023-11-27 15:55:04.163 [main] AdminLoginStepDefinition - The component issue assert is successful
+[INFO ] 2023-11-27 15:55:04.234 [main] AdminLoginStepDefinition - The component name was searched
+[INFO ] 2023-11-27 15:55:06.686 [main] AdminLoginStepDefinition - Implicit wait applied
+[INFO ] 2023-11-27 15:55:08.217 [main] AdminLoginStepDefinition - The website launches
+[INFO ] 2023-11-27 15:55:13.319 [main] AdminLoginStepDefinition - User logged in successfully
+[INFO ] 2023-11-27 15:55:19.578 [main] AdminLoginStepDefinition - The message is delivered
